@@ -35,3 +35,5 @@ traits==6.3.2
 typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
+Flask-Bootstrap==3.3.7.1
+
